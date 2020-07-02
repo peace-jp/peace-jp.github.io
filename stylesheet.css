@@ -1,3 +1,14 @@
-.title {
+.top{
+    margin:0 auto;
+}
+
+.top-title {
     color: #6A5ACD;
+    font: size 40px;
   }
+
+.top-title p{
+    color:#1E90FF;
+    font: size 12px;
+    
+}  
